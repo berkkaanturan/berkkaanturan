@@ -6,6 +6,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,js,react,redux,nodejs,html,css,tailwind,git" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=vscode,js,react,redux,nodejs,html,css,tailwind,git,idea-dark" alt="Tech Stack"/>
   </a>
 </p>
